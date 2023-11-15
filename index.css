@@ -31,15 +31,20 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    display: inline-block;
+    width: 32%;
     margin-bottom: 5px;
     border-radius: 5px;
 }
 
 #increment-btn {
-    background: darkred;
+    background: darkblue;
 }
 
 #save-btn {
     background: darkgreen;
+}
+
+#reset-btn {
+    background: darkred;
 }
